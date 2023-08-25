@@ -1,4 +1,5 @@
-## Hi there 👋
+##
+![Linkedin_Banner_Ansatte (3)](https://github.com/embriq-nordic/.github/assets/131141628/bd756373-1b2f-46c7-92a5-c29972550f9f)
 
 <!--
 
