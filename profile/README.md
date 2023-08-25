@@ -1,6 +1,12 @@
 ##
 ![Linkedin_Banner_Ansatte (3)](https://github.com/embriq-nordic/.github/assets/131141628/bd756373-1b2f-46c7-92a5-c29972550f9f)
 
+Welcome to Embriq's profile 👋
+
+⚡️ We are a leading provider of advanced IT operations, software, industrial IoT technology and consulting services. We supply solutions that help complex and transaction-heavy businesses optimise their competitiveness.
+
+📍 Based in Norway and Sweden
+
 <!--
 
 **Here are some ideas to get you started:**
