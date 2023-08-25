@@ -7,9 +7,14 @@ Welcome to Embriq's profile 👋
 
 📍 Based in Norway and Sweden
 
-Follow us on LinkedIn 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" /> 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+
+
+<img src="https://github.com/embriq-nordic/.github/assets/131141628/b7bf20df-5e60-4e19-bbee-69ae142862f2" 
+     width="20" 
+     height="20" /> &nbsp; Follow us on [LinkedIn](https://www.linkedin.com/company/embriq/?originalSubdomain=no)
+
+
+
 
 <!--
 
