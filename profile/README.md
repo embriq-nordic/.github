@@ -7,7 +7,8 @@ Welcome to Embriq's profile 👋
 
 📍 Based in Norway and Sweden
 
-[https://www.linkedin.com/feed/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) Follow us on LinkedIn 
+Follow us on LinkedIn 
+<img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" /> 
 
 <!--
 
